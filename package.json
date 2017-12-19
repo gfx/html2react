@@ -1,6 +1,6 @@
 {
   "name": "@gfx/html2react",
-  "version": "1.0.3-1",
+  "version": "1.0.4-patched-1",
   "description": "Utility for turning raw HTML into React elements",
   "main": "lib/index.js",
   "scripts": {
